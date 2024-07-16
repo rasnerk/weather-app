@@ -57,3 +57,7 @@ function populateDom(condition, temp, name) {
 }
 
 //https://www.weatherapi.com/docs/
+
+//https://stackoverflow.com/questions/1408790/how-do-i-pull-my-project-from-github
+
+//git clone git@github.com:rasnerk/weather-app.git
